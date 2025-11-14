@@ -1,0 +1,29 @@
+header {
+   background-color: rgba(71, 7, 119, 0.671);
+   width: 100%;
+   padding: 40px 0;
+   text-align: center;
+   margin-bottom: 30px;
+   color: aliceblue;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 20px;
+    background-color: rgba(59, 8, 107, 0.507);
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+body {
+   background-image: url(https://img.odcdn.com.br/wp-content/uploads/2021/04/Galaxia-1920x1080.jpg);
+}
+img {
+   display: block;
+  margin: 0 auto;
+}
+
+a {
+   color: rgb(231, 253, 237);
+}
